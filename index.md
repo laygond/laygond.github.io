@@ -1,8 +1,6 @@
 ## Welcome to Laygond's Projects
 
-My interests involve: robotics, computer vision, and juggling.
-
-Feel free to use my work as basis for your own proyects. I will constantly add links to tutorials that I consider fundamental to the understanding of my projects :blush:   
+Feel free to use my work as basis for your own proyects. I will constantly add links to tutorials that I consider fundamental to the understanding of my projects.   
 
 ### Category 1
 
