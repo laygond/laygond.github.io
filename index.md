@@ -1,10 +1,8 @@
 ## Welcome to Laygond's Projects
 
-My interests involve: robotics, computer vision, and juggling. I love learning and competitions. 
-My motto "The beginning is always today." -Mary Wollstonecraft Shelley, English novelist (1797 - 1851)
+My interests involve: robotics, computer vision, and juggling.
 
-Feel free to use my work as basis for your own proyects. You will find a list of my documented proyects below. 
-I will constantly add links to tutorials that I consider fundamental to the understanding of my projects :blush:   
+Feel free to use my work as basis for your own proyects. I will constantly add links to tutorials that I consider fundamental to the understanding of my projects :blush:   
 
 ### Category 1
 
