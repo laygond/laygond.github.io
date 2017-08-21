@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Laygond's Projects
 
-You can use the [editor on GitHub](https://github.com/laygond/laygond.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My interests involve: robotics, computer vision, and juggling. I love learning and competitions. 
+My motto "The beginning is always today." -Mary Wollstonecraft Shelley, English novelist (1797 - 1851)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to use my work as basis for your own proyects. You will find a list of my documented proyects below. 
+I will constantly add links to tutorials that I consider fundamental to the understanding of my projects :blush:   
 
-### Markdown
+### Category 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing.HOLA It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
